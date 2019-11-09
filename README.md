@@ -1,0 +1,2 @@
+# AppEjercicio
+Varios ejercicios matematicos
